@@ -7,8 +7,10 @@ pipeline{
                 }
             }
             stage('Build'){
-                sh "docker-compose build"
-                sh "docker-compose -u -d"
+                steps{
+                      sh "docker-compose build"
+                      sh "docker-compose -u -d"
+                }
             }
         }
 }

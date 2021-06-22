@@ -3,7 +3,8 @@ version: '3.4'
 services:
   myprofilevuejs:
     image: myprofilevuejs
-    
+    environment:
+      NODE_ENV: production
     build:
       context: .
       dockerfile: ./Dockerfile

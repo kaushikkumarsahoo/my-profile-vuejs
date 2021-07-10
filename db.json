@@ -100,21 +100,21 @@
     {
       "id": 9,
       "title": "California",
-      "start": "2021-07-13T12:30:00",
-      "end": "2021-07-13T17:30:00",
+      "start": "2021-07-13T06:30:00",
+      "end": "2021-07-13T10:30:00",
       "extendedProps": {
-        "punch-in": "12:40",
-        "punch-out": "17:20"
+        "punch-in": "06:40",
+        "punch-out": "10:20"
       }
      },
     {
       "id": 10,
       "title": "Los Angeles",
-      "start": "2021-07-12T12:30:00",
-      "end": "2021-07-12T17:30:00",
+      "start": "2021-07-12T05:30:00",
+      "end": "2021-07-12T09:30:00",
       "extendedProps": {
-        "punch-in": "12:40",
-        "punch-out": "17:20"
+        "punch-in": "05:40",
+        "punch-out": "09:20"
       }
      }
    ],

@@ -80,21 +80,21 @@
     {
       "id": 7,
       "title": "Singapore",
-      "start": "2021-07-10T12:30:00",
-      "end": "2021-07-10T17:30:00",
+      "start": "2021-07-10T08:30:00",
+      "end": "2021-07-10T11:30:00",
       "extendedProps": {
-        "punch-in": "12:40",
-        "punch-out": "17:20"
+        "punch-in": "08:40",
+        "punch-out": "11:20"
       }
      },
     {
       "id": 8,
       "title": "Washington DC",
-      "start": "2021-07-11T12:30:00",
-      "end": "2021-07-11T17:30:00",
+      "start": "2021-07-11T02:30:00",
+      "end": "2021-07-11T05:30:00",
       "extendedProps": {
-        "punch-in": "12:40",
-        "punch-out": "17:20"
+        "punch-in": "02:40",
+        "punch-out": "05:20"
       }
      },
     {

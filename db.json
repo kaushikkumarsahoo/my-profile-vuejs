@@ -1,20 +1,46 @@
 {
-   "events": [
-  {
-    "id": 1,
-    "title": "London",
-    "start": "2021-07-08T02:30:00",
-    "end": "2021-07-08T07:30:00",
-    "punch-in": "2021-07-08T02:30:00",
-    "punch-out": "2021-07-08T07:20:00",
-  },
-  {
-    "id": 1,
-    "title": "Capetown",
-    "start": "2021-07-09T12:30:00",
-    "end": "2021-07-09T17:30:00",
-    "punch-in": "2021-07-08T02:30:00",
-    "punch-out": "2021-07-08T07:20:00",
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 5"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "events": [
+    {
+      "title": "London",
+      "start": "2021-07-08T02:30:00",
+      "end": "2021-07-08T07:30:00"
+    },
+    {
+      "title": "Capetown",
+      "start": "2021-07-09T12:30:00",
+      "end": "2021-07-09T17:30:00"
+     }
+   ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
   }
-]
 }
